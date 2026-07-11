@@ -1,0 +1,78 @@
+{{ define "main" }}
+  {{/* Load all people from data/people.toml */}}
+  {{ $people := site.Data.people.people }}
+
+  <section class="max-w-5xl mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold mb-8">{{ .Title }}</h1>
+
+    <!-- Group Photo (half width, centered) -->
+    <figure class="mb-10 text-center">
+      <div class="mx-auto" style="width:50%;">
+        <img
+          src="{{ "img/group.jpg" | relURL }}"
+          alt="Research group photo"
+          class="rounded-xl shadow-lg w-full"
+        />
+      </div>
+    <figcaption class="text-center text-sm mt-3 opacity-80">
+      Our group at CERN during the 2025 Pb+Pb Run — November 2025;
+          </figcaption>   
+    <figcaption class="text-center text-sm mt-1 opacity-80">   
+      From left to right: R.Jirasek, P.Majchrzak, R.Longo, P.L.Stahlhut, M.Housenga, M.Hoppesch
+    </figcaption>    
+    </figure>
+
+    {{/* Loop directly over the slice of category names */}}
+    {{ range $group := (slice "Staff" "Graduate Students" "Undergraduate Students" "Alumni") }}
+      {{/* Filter people by this category */}}
+      {{ $groupPeople := where $people "category" $group }}
+
+      {{ if gt (len $groupPeople) 0 }}
+        <h2 class="text-2xl font-semibold mt-10 mb-4">{{ $group }}</h2>
+
+        <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+          {{ range $groupPeople }}
+            {{ $person := . }}
+            <article class="rounded-2xl p-6 shadow bg-surface">
+              {{ with $person.image }}
+                <img
+                  src="{{ . | relURL }}"
+                  alt="{{ $person.name }}"
+                  class="w-24 h-24 rounded-full mb-4 object-cover"
+                />
+              {{ end }}
+
+              <h3 class="text-xl font-semibold mb-1">{{ $person.name }}</h3>
+
+              {{ with $person.role }}
+                <p class="text-sm opacity-80 mb-2">{{ . }}</p>
+              {{ end }}
+
+              <p class="mb-4">{{ $person.bio }}</p>
+
+              {{ with $person.links }}
+                <div class="flex flex-wrap items-center mt-2">
+                    {{ range . }}
+                    <a
+                        href="{{ .url }}"
+                        class="inline-flex items-center mr-4 mb-2 text-sm underline"
+                        target="_blank"
+                        rel="noopener"
+                    >
+                        {{ with .pre }}
+                        <span class="mr-1">
+                            {{ partial "icon.html" . }}
+                        </span>
+                        {{ end }}
+                        {{ .label }}
+                    </a>
+                  {{ end }}
+                </div>
+              {{ end }}
+            </article>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ end }}
+  </section>
+{{ end }}

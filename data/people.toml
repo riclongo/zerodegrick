@@ -1,0 +1,88 @@
+[[people]]
+id = "riccardo"
+name = "Dr. Riccardo Longo"
+category = "Staff" 
+role = "Team Leader & Assistant Professor (RTDB - Rita Levi Montalcini's Fellow) at UniTo"
+image = "img/riccardo.png"
+bio = "Dr. Riccardo Longo is a heavy-ion physicist in ATLAS working on investigating the microscopic properties of the Quark Gluon Plasma (QGP) by using (di)jet probes. He is also Technical Coordinator for the ATLAS Zero Degree Calorimeter (ZDC) and Reaction Plane Detector (RPD), and plays a significant role in the upgrade of the ATLAS ZDC for the HL-LHC ( aka HL-ZDC). In June 2025, Riccardo joined Università di Torino and started leading the new heavy-ion group working on ATLAS."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:riccardo.longo@unito.it"
+
+  [[people.links]]
+  pre = "orcid"
+  label = "ORCID"
+  url = "https://orcid.org/0000-0003-3984-6452"
+
+  [[people.links]]
+  pre = "instagram"
+  label = "Instagram"
+  url = "https://orcid.org/0000-0003-3984-6452"
+
+[[people]]
+id = "phil"
+name = "Phil Lennart Stahlhut"
+category = "Graduate Students" 
+role = "UniTo PhD Student - Class of 2028"
+image = "img/phil.png"
+bio = "Phil completed his Bachelor’s and Master’s degrees in Physics at Heidelberg University, Germany, between 2019 and 2025. From 2022 onward, he was a member of the ALICE group, where he worked on measurements of heavy-flavor hadron production in proton–proton collisions at the LHC. In addition, he was a CERN summer student in 2023, working on the new online–offline reconstruction software for ALICE in Run 3. In November 2025, he started my PhD at the Università di Torino, focusing on the analysis of heavy-ion collisions recorded by the ATLAS experiment, while also contributing to ATLAS data-taking activities, in particular the operation of the Zero Degree Calorimeter and its upgrade for the High-Luminosity LHC (HL-ZDC)."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:phillennart.stahlhut@unito.it"
+
+[[people]]
+id = "matthew"
+name = "Matthew Caleb Hoppesch"
+category = "Graduate Students" 
+role = "UIUC/INFN PhD Student - Class of 2026"
+image = "img/matthew.jpg"
+bio = "Matthew Hoppesch received his bachelor's degree from the University of Illinois in 2022.  He currently is a PhD student in Dr. Longo's group and a member of the ATLAS experiment at CERN. His thesis work explores QCD matter using dijets, including a measurement of hard-soft correlations in proton-nucleus collisions and the first-ever measurement of dijet momentum balance in oxygen-oxygen collisions."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:mch6@illinois.edu"
+
+[[people]]
+id = "mason"
+name = "Mason Ray Housenga"
+category = "Graduate Students" 
+role = "UIUC/INFN PhD Student - Class of 2026"
+image = "img/mason.jpg"
+bio = "Mason Ray Housenga is a PhD student with a focus on heavy ions and zero degree calorimetry. His work revolves around the ATLAS Reaction Plane Detector (RPD) and has spanned reconstruction, simulation, and analysis. His primary goal is to leverage the ATLAS RPD capabilities to study the directed flow (v1) in Pb+Pb collisions, which will be the first measurement of its kind performed by ATLAS."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:masonrh2@illinois.edu"
+
+[[people]]
+id = "radek"
+name = "Radek Jirasek"
+category = "Graduate Students" 
+role = "UniTo PhD Student - in co-tutelle with Charles University Prague - Class of 2029"
+image = "img/radek.jpg"
+bio = "Radek Jirásek is a PhD student of the physics program at the University of Torino and the Particle Physics study program at Charles University, enrolled in a double-degree program. Radek starts his scientific research on semiconductor detectors for the ITk upgrade of the ATLAS for HL-LHC. He then moved into the field of heavy-ion collisions, with his bachelor's thesis and later master's thesis on the topic ‘Investigating Jet Structure in Hadronic Heavy Ion Collisions’. Now he is working on the ZDC ATLAS sub-detector and jet measurements."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:radek.jirasek@cern.ch"
+
+[[people]]
+id = "paulina"
+name = "Paulina Majchrzak"
+category = "Graduate Students" 
+role = "UniTo PhD Student - in co-tutelle with AGH Krakow - Class of 2029"
+image = "img/paulina.jpeg"
+bio = "Paulina Majchrzak is a PhD student in the physics program at AGH University of Kraków and the University of Torino, enrolled in a double-degree program. During her studies, she has been actively involved in the ATLAS experiment at CERN. For her master’s thesis, she focused on ultra-peripheral Pb–Pb collisions, including background estimation for light-by-light scattering using Run 3 data. Currently, her research is centered on hard probes physics, with a particular emphasis on jet studies in top quark production using ATLAS Run 3 data."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:paulina.majchrzak@cern.ch"
+
