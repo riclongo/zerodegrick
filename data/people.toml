@@ -86,3 +86,15 @@ bio = "Paulina Majchrzak is a PhD student in the physics program at AGH Universi
   label = "e-mail;"
   url = "mailto:paulina.majchrzak@cern.ch"
 
+[[people]]
+id = "enrico"
+name = "Enrico Peter Grande"
+category = "Undergraduate Students" 
+role = "UniTo Undergraduate Student - Class of 2026"
+image = "img/enrico.jpeg"
+bio = "Enrico Peter Grande is an undergraduate student in the physics program at the University of Torino. He has been actively involved in the ATLAS experiment at CERN, focusing on cold nuclear matter effects on dijet production in O+O and Ne+Ne collisions."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:enrico.grande@edu.unito.it"
