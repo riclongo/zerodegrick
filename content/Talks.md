@@ -10,9 +10,13 @@ Talks delivered by Dr. Riccardo Longo in National & International Conferences an
 
 ## 2026 
 
+- [ATLAS Highlights for Hard Probes 2026][hp26]: plenary ATLAS experimental overview at the Hard Probes 2026 Conference, Nashville, Tennessee, 21-26 June 2026.
+
+- [O+O and Ne+Ne at the LHC, one year after: what did we learn?][conf26]: invited talk at the XVII Quark Confinement and Hadron Spectrum, Wroclaw, Poland, 29 June - 4 July 2026. 
+
 ### Upcoming 
 
-- Yet to come... 
+- Yet to be announced 
 
 ## 2025
 
@@ -64,6 +68,9 @@ Brookhaven National Laboratory, NY, US; 23-25 May 2025.
 
 - [Investigation of initial state effects in p+Pb collisions at ATLAS via measurement of both top quark and dijet production][hp23]: talk at the 11th International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions (Hard Probes 2023), Aschaffenburg, 26-31 March 2023. 
 
+[conf26]: https://indico.cern.ch/event/1531304/contributions/7087103/attachments/3307065/5917213/Confinement_2026_Longo_Final.pdf
+
+[hp26]: https://indico.cern.ch/event/1428985/contributions/7088843/attachments/3300072/5904286/ATLAS_Highlights_Longo_HP2026_v1.3HQ.pdf
 
 [def]: https://indico.cern.ch/event/1586852/contributions/6694557/attachments/3136071/5564902/Longo_CERN_Jamboree_16Sept2025_v1.4.pdf
 
