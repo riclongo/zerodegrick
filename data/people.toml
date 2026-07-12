@@ -2,7 +2,7 @@
 id = "riccardo"
 name = "Dr. Riccardo Longo"
 category = "Staff" 
-role = "Team Leader & Assistant Professor (RTDB - Rita Levi Montalcini's Fellow) at UniTo"
+role = "Team Leader & Assistant Professor (RTDB - Rita Levi Montalcini's Fellow) at UniTo - Department of Physics"
 image = "img/riccardo.png"
 bio = "Dr. Riccardo Longo is a heavy-ion physicist in ATLAS working on investigating the microscopic properties of the Quark Gluon Plasma (QGP) by using (di)jet probes. He is also Technical Coordinator for the ATLAS Zero Degree Calorimeter (ZDC) and Reaction Plane Detector (RPD), and plays a significant role in the upgrade of the ATLAS ZDC for the HL-LHC ( aka HL-ZDC). In June 2025, Riccardo joined Università di Torino and started leading the new heavy-ion group working on ATLAS."
 
@@ -20,6 +20,24 @@ bio = "Dr. Riccardo Longo is a heavy-ion physicist in ATLAS working on investiga
   pre = "instagram"
   label = "Instagram"
   url = "https://orcid.org/0000-0003-3984-6452"
+
+[[people]]
+id = "ivan"
+name = "Dr. Ivan Gnesi"
+category = "Staff" 
+role = "Assistant Professor (RTDB) at UniTo - Department of Management V.Cantino"
+image = "img/ivan.png"
+bio = "Dr. Ivan Gnesi is a heavy-ion physicist in ATLAS working on investigating the hydrodynamic properties of the QGP by using soft probes. In the recent past, he has been contributing to the ATLAS Muon system upgrade and currently is focusing on radiation hardness studies for the new HL-ZDC of ATLAS at the HL-LHC."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:ivan.gnesi@unito.it"
+
+  [[people.links]]
+  pre = "orcid"
+  label = "ORCID"
+  url = "https://orcid.org/0000-0002-0772-7312"
 
 [[people]]
 id = "phil"
