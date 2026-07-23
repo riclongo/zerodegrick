@@ -3,9 +3,10 @@ title: "First light for the HL-ZDC"
 date: 2026-07-16T20:00:00+02:00
 description: "The ATLAS HL-ZDC saw first beams in H4 in July 2026"
 summary: "The first test-beam campaign of the ATLAS HL-ZDC was successfully completed at CERN's H4 beam line."
-tags: ["ATLAS@To"]
+tags: ["ATLAS@To", "HL-ZDC"]
 showTaxonomies: true
 math: true
+
 ---
 
 <div style="max-width: 900px; margin: 0 auto;">
@@ -23,6 +24,8 @@ The **ATLAS High-Luminosity Zero Degree Calorimeter (HL-ZDC)** reached an import
 
 The smooth operation of the detector throughout the campaign and the successful data taking represent an encouraging first step toward the new forward calorimeter for the High-Luminosity LHC for both ATLAS and CMS. The HL-ZDC team will now analyze the collected data in detail and use the results to guide the next stages of the HL-ZDC development. Torino had a strong presence on-site through the whole test beam effort with graduate students **Paulina Majchrzak, Phil Stahlhut, and Radek Jirasek**, as well as team leader **Dr. Riccardo Longo**. 
 The ATLAS crew also involved graduate and undergraduate students from Columbia, under the guidance of Prof. Brian Cole, senior scientist and ZDC project leader Dr. Peter Steinberg, and post-docs and graduate students from University of Illinois and BGU. 
+
+
 
 {{< figure
     src="shifty.jpg"
