@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["news"]
 # robots = ""
 
 disableImageOptimization = false
@@ -56,10 +56,10 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layout = "hero" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/ATLAS_HI.png" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
-  cardView = false
+  showRecentItems = 4
+  showMoreLink = true
+  showMoreLinkDest = "/news/"
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero

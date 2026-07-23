@@ -5,4 +5,3 @@ description: "This page lists current members of the ATLAS Torino Heavy Ion grou
 tags: ["people"]
 ---
 ## Staff
-

@@ -15,6 +15,11 @@
 #  weight = 20
 
 [[main]]
+  name = "News"
+  pageRef = "news"
+  weight = 10
+
+[[main]]
   name = "Group Members"
   parent = "ATLAS Torino"
   pageRef = "people"
@@ -25,6 +30,18 @@
   parent = "ATLAS Torino"
   pageRef = "ZDC_and_HLZDC"
   weight = 20
+
+[[main]]
+  name = "Available Projects"
+  parent = "ATLAS Torino"
+  pageRef = "projects"
+  weight = 30
+
+[[main]]
+  name = "Photo Gallery"
+  parent = "ATLAS Torino"
+  pageRef = "gallery"
+  weight = 40
 
 [[main]]
   name = "Talks"
