@@ -23,7 +23,7 @@
     </figure>
 
     {{/* Loop directly over the slice of category names */}}
-    {{ range $group := (slice "Staff" "Graduate Students" "Undergraduate Students" "Alumni") }}
+    {{ range $group := (slice "Staff" "Graduate Students" "Master's Students" "Undergraduate Students" "Alumni") }}
       {{/* Filter people by this category */}}
       {{ $groupPeople := where $people "category" $group }}
 

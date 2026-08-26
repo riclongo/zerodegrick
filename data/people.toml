@@ -105,6 +105,19 @@ bio = "Paulina Majchrzak is a PhD student in the physics program at AGH Universi
   url = "mailto:paulina.majchrzak@cern.ch"
 
 [[people]]
+id = "alessandro"
+name = "Alessandro Foglizzo"
+category = "Master's Students" 
+role = "UniTo Master's Student - Class of 2027"
+image = "img/alessandro.jpg"
+bio = "Alessandro Foglizzo is a postgraduate student enrolled in the Master’s degree in Nuclear and Particle Physics at Università di Torino. He is a member of the ATLAS group in Torino and also collaborates with the ATLAS TileCal group at IFIC (Valencia, Spain). In his bachelor’s thesis he analysed splash events for the timing calibration of the ATLAS Tile Calorimeter and is currently working on rare Higgs decays and jet flavour tagging."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:alessandro.foglizzo@cern.ch"
+
+[[people]]
 id = "enrico"
 name = "Enrico Peter Grande"
 category = "Undergraduate Students" 
