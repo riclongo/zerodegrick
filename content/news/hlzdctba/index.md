@@ -28,3 +28,10 @@ The H4 setup combined the HL-ZDC with dedicated beam instrumentation, a quartz C
 Across the two configurations, the team recorded approximately **121 million events**. Dedicated runs without a target and with the incoming-beam trigger alone were also collected to provide the background samples required for the detailed offline analysis now under way.
 
 Together, the July hadron campaign and the August Pb-ion campaign provide a broad dataset with which to assess the pre-production HL-ZDC and guide the detector's next development steps for the HL-LHC.
+
+{{< figure
+    src="shifty.jpg"
+    alt="Graduate student Stahlhut and master's student Grande preparing the quartz Cherenkov-based trigger cross ahead of the test beam, in 251 ATLAS FWD Lab at CERN."
+    caption="Graduate student Stahlhut and master's student Grande preparing the quartz Cherenkov-based trigger cross ahead of the test beam, in 251 ATLAS FWD Lab at CERN."
+    class="mx-900px"
+>}}
