@@ -8,15 +8,22 @@ tags: ["material"]
 
 Talks delivered by Dr. Riccardo Longo in National & International Conferences and Workshops, divided per year. 
 
+### Upcoming 
+
+- Yet to be announced 
+
 ## 2026 
 
 - [ATLAS Highlights for Hard Probes 2026][hp26]: plenary ATLAS experimental overview at the Hard Probes 2026 Conference, Nashville, Tennessee, 21-26 June 2026.
 
 - [O+O and Ne+Ne at the LHC, one year after: what did we learn?][conf26]: invited talk at the XVII Quark Confinement and Hadron Spectrum, Wroclaw, Poland, 29 June - 4 July 2026. 
 
-### Upcoming 
+- [Looking for the Small Size Limit of Energy Loss
+at the LHC][li26]: talk (not ATLAS) at the EMMI Workshop on Light-ion collisions 2026, Heidelberg, Germany, 21 September - 25 September 2026.
 
-- Yet to be announced 
+- [New Ion Collisions @ LHC Run 4 - ATLAS Perspective][li26ap]: talk at the EMMI Workshop on Light-ion collisions 2026, Heidelberg, Germany, 21 September - 25 September 2026.
+
+- 'The HL-ZDC project: status and perspectives': talk at the ATLAS General Forward Meeting, 21 September - 24 September 2026. Note: ATLAS Internal workshop, slides available upon demand. 
 
 ## 2025
 
@@ -113,3 +120,7 @@ Brookhaven National Laboratory, NY, US; 23-25 May 2025.
 [qm23]:https://indico.cern.ch/event/1139644/contributions/5456335/attachments/2707528/4700732/QM2023_Poster_Final_Upload.pdf
 
 [hp23]:https://indico.uni-muenster.de/event/1409/contributions/2136/attachments/926/1872/Longo_HP2023_Final_v2.pdf
+
+[li26]:https://indico.gsi.de/event/25022/contributions/101801/attachments/56949/87616/light_ions_dijet_RL_final_v1.0.pdf
+
+[li26ap]:https://indico.gsi.de/event/25022/contributions/103361/
