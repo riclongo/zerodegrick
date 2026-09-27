@@ -25,4 +25,10 @@ Ahead of **Run 3**, the detector underwent a major upgrade to significantly enha
 
 ## The ATLAS High-Luminosity Zero Degree Calorimeter Project (Run 4++)
 
-⚠️ <span style="color: #d4a000; font-weight: bold;">Page under construction</span>
+The **High-Luminosity Zero Degree Calorimeter (HL-ZDC)** is the next generation of forward calorimetry for the heavy-ion program at the **High-Luminosity LHC**, starting with **Run 4**. Building on the experience of the existing ZDC, the project will preserve and extend the measurement of forward spectator neutrons, supporting the characterization of nuclear collisions and the identification of **ultra-peripheral collisions (UPCs)**. These capabilities are essential to making full use of the heavy-ion physics opportunities of the HL-LHC.
+
+The detector is being developed through a collaboration between the ATLAS and CMS ZDC efforts, bringing together expertise in calorimetry, detector instrumentation, and heavy-ion physics. The development program combines pre-production detector construction with dedicated beam tests to characterize the calorimeter response and guide the next stages of the upgrade.
+
+Dr. Riccardo Longo serves as the **ATLAS HL-ZDC upgrade project leader**, and our **ATLAS Torino group is deeply involved in the project**. Our group contributes directly to the experimental work at CERN, with a strong presence in test-beam preparation, beam instrumentation, detector operation, and data taking. Graduate and undergraduate students work alongside experienced researchers, gaining hands-on experience in the development and validation of a new detector for the HL-LHC.
+
+In **2026**, the project completed two complementary test-beam campaigns in CERN's **H4 beam line**. The [July campaign—*First light for the HL-ZDC*]({{< relref "news/hlzdctbj/index.md" >}}) exposed the pre-production detector to electron, proton, and muon beams for the first time, collecting the data needed to characterize its response under controlled conditions. The [Pb-ion campaign of 12–19 August]({{< relref "news/hlzdctba/index.md" >}}) then studied its response to neutral fragments, especially neutrons, produced by the fragmentation of a lead-ion beam. Together, these datasets provide complementary measurements to assess the pre-production calorimeter and guide its further development toward operation at the HL-LHC.
