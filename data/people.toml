@@ -105,6 +105,19 @@ bio = "Paulina Majchrzak is a PhD student in the physics program at AGH Universi
   url = "mailto:paulina.majchrzak@cern.ch"
 
 [[people]]
+id = "yi"
+name = "Yi Liu"
+category = "Graduate Students" 
+role = "UIUC/INFN PhD Student - Class of 2027"
+image = "img/yi.jpg"
+bio = "Yi Liu  is a PhD student with a focus on heavy ions and zero degree calorimetry, working on the ATLAS experiment at CERN. His research focuses on the study of nuclear modification of parton distribution functons in proton-nucleus collisions via multi-differential dijet measurements. He is also responsible for large fraction of the heavy-ion jet calibration in Run 3 and contributes heavily to the ATLAS ZDC upgrade for the HL-LHC."
+
+  [[people.links]]
+  pre = "email"
+  label = "e-mail;"
+  url = "mailto:yiliu18@illinois.edu"
+
+[[people]]
 id = "alessandro"
 name = "Alessandro Foglizzo"
 category = "Master's Students" 
@@ -120,10 +133,10 @@ bio = "Alessandro Foglizzo is a postgraduate student enrolled in the Master’s 
 [[people]]
 id = "enrico"
 name = "Enrico Peter Grande"
-category = "Undergraduate Students" 
-role = "UniTo Undergraduate Student - Class of 2026"
+category = "Master's Students" 
+role = "UniTo Master's Student - Class of 2028"
 image = "img/enrico.jpeg"
-bio = "Enrico Peter Grande is an undergraduate student in the physics program at the University of Torino. He has been actively involved in the ATLAS experiment at CERN, focusing on cold nuclear matter effects on dijet production in O+O and Ne+Ne collisions."
+bio = "Enrico Peter Grande is a master's student in the physics program at the University of Torino. He is with the group since his bachelor's thesis, for which he has been actively involved in the ATLAS experiment at CERN, focusing on cold nuclear matter effects on dijet production in O+O and Ne+Ne collisions."
 
   [[people.links]]
   pre = "email"
